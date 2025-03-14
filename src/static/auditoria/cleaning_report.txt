@@ -30,9 +30,6 @@ dtype: object
 
 Registros después de limpieza: 820
 Duplicados eliminados en characters: 6
-Correcciones de tipos de datos:
-Columna: id, Tipo antes: int64, Tipo después: int32
-
 Valores vacíos detectados y reemplazados en characters: 368
 Valores nulos detectados y reemplazados en characters: 37
 
@@ -60,9 +57,6 @@ dtype: object
 
 Registros después de limpieza: 124
 Duplicados eliminados en locations: 2
-Correcciones de tipos de datos:
-Columna: id, Tipo antes: int64, Tipo después: int32
-
 Valores vacíos detectados y reemplazados en locations: 3
 Valores nulos detectados y reemplazados en locations: 2
 
@@ -90,8 +84,5 @@ dtype: object
 
 Registros después de limpieza: 51
 Duplicados eliminados en episodes: 0
-Correcciones de tipos de datos:
-Columna: id, Tipo antes: int64, Tipo después: int32
-
 Valores vacíos detectados y reemplazados en episodes: 0
 Valores nulos detectados y reemplazados en episodes: 2
